@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Induranga Ekanayake from Reading, United Kingdom.<br><br>- 🔭 I’m a student in University of westminster<br>- 📚 I'm currently learning Computer Science<br>- ⚡ In my free time I learn fullstack web develpoment</p>
+<p align="left">I'm Induranga Ekanayake from Reading, United Kingdom.<br><br>- 🔭 I studied in University of westminster<br>- 📚 I graduataed with a Bachelor of Computer Science<br>- ⚡ In my free time I learn fullstack web develpoment</p>
 
 ###
 
